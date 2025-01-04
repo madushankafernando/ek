@@ -12,9 +12,8 @@ const JoinCommunity = () => {
       <h1 className="text-[3.125rem] md:text-[5.2rem] font-bold mb-[26px] md:mb-[27px] uppercase sm:text-center">
       How to Join
       </h1>
-      {/* /* eslint-disable react/no-unescaped-entities */}
       <p className="text-[15px] md:text-[1.25rem] leading-relaxed text-center">
-      If you&apos;re contributing to what we believe in, then you are already a part of Eternal Koalas. We are continuously looking into and starting new initiatives and partnerships that support our mission. Stay connected and up-to-date by joining our Telegram channel and following us on X and Instagram.
+      If you are contributing to what we believe in, then you are already a part of Eternal Koalas. We are continuously looking into and starting new initiatives and partnerships that support our mission. Stay connected and up-to-date by joining our Telegram channel and following us on X and Instagram.
       </p>
     </div>
     <div className="text-center flex items-center justify-center my-8 md:m-auto ">
